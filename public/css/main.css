@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  /* vh - fraciona a tela em 100 pedacinhos, ou seja, ocupa toda ela*/
+  height: 100vh;
+  color: white;
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+body, input, button, textarea{
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 1;
+  /*Se ele não achar a font nunito ele vai colocar a sans serif*/
+  font-family: 'Nunito', sans-serif;
+
+}
