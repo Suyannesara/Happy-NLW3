@@ -8,6 +8,7 @@ body{
   /* vh - fraciona a tela em 100 pedacinhos, ou seja, ocupa toda ela*/
   height: 100vh;
   color: white;
+  background:#ebf2f5;
 }
 
 :root{
